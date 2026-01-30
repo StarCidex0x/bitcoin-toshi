@@ -1,0 +1,45 @@
+{
+  "template_id": "toshi_neutral_standing_facing_forward_left_v1_final",
+  "description": "Freigestelltes Render-Set von Toshi in vier leicht isometrischen Perspektiven (links/rechts/vorne/hinten)",
+  "style": {
+    "look": "Modernisierte Retro-Pixel-Art, SNES-Zelda/Pokémon-Ästhetik",
+    "auflösung": "1024x1024",
+    "farbprofil": "16-Bit-Look mit subtilen Verläufen",
+    "beleuchtung": "weich, golden, natürliche Kontraste",
+    "perspektive": "leicht isometrisch, Blickrichtung variierend",
+    "hintergrund": "transparent"
+  },
+  "poses": [
+    {
+      "name": "toshi_front_left",
+      "beschreibung": "Toshi steht in neutraler Haltung, leicht nach links vorne gewandt",
+      "blickrichtung": "links-vorne",
+      "emotion": "entschlossen, ruhig"
+    },
+    {
+      "name": "toshi_front_right",
+      "beschreibung": "Toshi steht in neutraler Haltung, leicht nach rechts vorne gewandt",
+      "blickrichtung": "rechts-vorne",
+      "emotion": "neugierig"
+    },
+    {
+      "name": "toshi_back_left",
+      "beschreibung": "Toshi von hinten gesehen, Blick leicht nach links hinten",
+      "blickrichtung": "links-hinten",
+      "emotion": "aufmerksam"
+    },
+    {
+      "name": "toshi_back_right",
+      "beschreibung": "Toshi von hinten gesehen, Blick leicht nach rechts hinten",
+      "blickrichtung": "rechts-hinten",
+      "emotion": "ruhig, wachsam"
+    }
+  ],
+  "output_format": "png",
+  "metadata": {
+    "charakter": "Toshi",
+    "projekt": "Toshi – Quest for Truth",
+    "verwendung": "Szenen-Render in Kapiteln und Social-Media-Beiträgen",
+    "style_ref": "toshi_neutral_standing_v2_20251019_040906.png"
+  }
+}

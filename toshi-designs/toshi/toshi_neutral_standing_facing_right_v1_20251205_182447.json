@@ -1,0 +1,37 @@
+{
+  "character": "Toshi",
+  "pose": "neutral_standing",
+  "facing_direction": "right",
+  "variation": 1,
+  "generated_at": "2025-12-05T18:24:48.042385",
+  "prompt_length": 2379,
+  "file_path": "/Users/fabric/dev/Projekte-Blockchain/Bitcoin-Toshi/05_assets/images/00_reference/characters/toshi/toshi_neutral_standing_facing_right_v1_20251205_182447.png",
+  "character_data": {
+    "description": "young adventurer, protagonist",
+    "appearance": {
+      "hair": "messy brown hair, medium length",
+      "face": "warm determined expression, large expressive eyes, friendly smile",
+      "clothing": "BRIGHT ORANGE SCARF (signature element, #F7931A), green vest over beige shirt, brown pants, brown boots",
+      "build": "athletic young man, adventurous posture",
+      "age": "late teens/early twenties"
+    },
+    "personality": "curious, determined, eager to learn",
+    "poses": [
+      "neutral_standing",
+      "thinking",
+      "excited",
+      "confident",
+      "questioning"
+    ],
+    "facing_directions": [
+      "forward",
+      "left",
+      "right"
+    ]
+  },
+  "output_type": "reference",
+  "story_id": 151,
+  "quality": "review_needed",
+  "reviewed": false,
+  "approved_for_reference": false
+}

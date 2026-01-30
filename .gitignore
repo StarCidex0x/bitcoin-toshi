@@ -1,0 +1,118 @@
+# Bitcoin-Toshi .gitignore
+
+# =======================
+# Large Assets (keep on Google Drive)
+# =======================
+# Unkomprimierte Bilder über 10MB
+*.psd
+*.ai
+*.sketch
+
+# Video-Dateien
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Audio (Rohdaten)
+*.wav
+*.aiff
+
+# =======================
+# Generated Content
+# =======================
+# Generierte Bilder (bis zur Freigabe)
+05_assets/images/01_generated/
+
+# Temporäre Dateien
+*.tmp
+*.temp
+.cache/
+
+# =======================
+# Development
+# =======================
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# =======================
+# IDE & Editor
+# =======================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =======================
+# iOS/macOS (Toshi-App)
+# =======================
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+Pods/
+
+# =======================
+# Database
+# =======================
+*.db
+*.sqlite
+*.sqlite3
+04_database/*.db
+
+# =======================
+# Secrets & Config
+# =======================
+.env
+.env.local
+.env.*.local
+secrets/
+config.local.yaml
+*.pem
+*.key
+
+# =======================
+# Logs
+# =======================
+logs/
+*.log
+
+# =======================
+# OS Generated
+# =======================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =======================
+# Backup Files
+# =======================
+*.bak
+*.backup
+*~
