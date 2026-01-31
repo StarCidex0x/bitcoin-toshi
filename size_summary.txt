@@ -1,0 +1,20 @@
+640K	00_system_core
+ 64K	01_agents
+8,0K	02_models
+8,0K	03_workflows
+436K	04_database
+109M	05_assets
+211M	05_outputs
+ 45M	06_archive
+ 76K	07_logs
+ 12K	08_docs
+ 92K	09_sync
+ 52K	31c4eb64-5550-4ef5-8834-70799f5beb32_ExportBlock-4809a44e-ef77-4ee0-b17e-076b449b1849.zip
+ 12K	DATABASE_SCHEMA.md
+2,1M	file_inventory.txt
+8,0K	IMPORT_SUMMARY.md
+8,0K	MIGRATION_COMPLETE.md
+292K	notion_data
+8,0K	QUICKSTART.md
+8,0K	README.md
+4,0K	requirements_models.txt
